@@ -1,5 +1,5 @@
 # viterbi-decoder
-A VHDL and HLS Viterbi Decoder
+A VHDL and HLS Viterbi Decoder.
 The poject can be built by running the build.tcl script within Vivado.
 
 # NOTE
